@@ -93,31 +93,27 @@ Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Cla
 
 - [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
+   correspondem a uma funcionalidade que deve estar presente na
   plataforma (ex: cadastro de usuário).
 - [Requisitos Não Funcionais
   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
   correspondem a uma característica técnica, seja de usabilidade,
   desempenho, confiabilidade, segurança ou outro (ex: suporte a
   dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+  Lembre-se que cada requisito deve corresponder à uma e somente uma
+  característica alvo da sua solução. Além disso, certifique-se de que
+  todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+| ID   | Restrição                                                    |
+| ---- | ------------------------------------------------------------ |
+| 01   | O projeto deverá ser entregue até o final do semestre        |
+| 02   | O Projeto deve ser desenvolvido em uma linguagem para uma aplicação móvel |
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
