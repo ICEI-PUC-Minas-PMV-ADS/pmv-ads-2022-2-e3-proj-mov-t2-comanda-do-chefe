@@ -1,23 +1,21 @@
-# TÍTULO DO PROJETO
+Comanda do chefe
 
-`CURSO`
-
-`DISCIPLINA`
-
-`SEMESTRE`
+Analise e Desenvolvimento de Sistema
+Eixo 3
+3° Semestre
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+Rafael Pacheco Leite
+Aline Candido Martins
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
 ## Orientador
 
-* Nome completo do professor 1
+Mateus Curcino De Lima
 
 ## Instruções de utilização
 
