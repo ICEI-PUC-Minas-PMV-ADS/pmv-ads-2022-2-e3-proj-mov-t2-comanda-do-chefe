@@ -1,17 +1,19 @@
 Comanda do chefe
 
 Analise e Desenvolvimento de Sistema
-Eixo 3
+Eixo 3 - Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio
 3° Semestre
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
+* Aline Candido Martins 
+* Eduardo Lucci Imakawa de Andrade
+* Felipe Costa Moreira
 * Rafael Pacheco Leite
-* Aline Candido Martins
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Thaís Rodrigues Dantas
+* Webert Henrique Marques Figueiredo
 
 ## Orientador
 
