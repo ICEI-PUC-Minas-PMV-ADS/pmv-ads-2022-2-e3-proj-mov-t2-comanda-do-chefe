@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# Comanda do chefe
 
-`CURSO`
+`Analise e Desenvolvimento de Sistema`
 
-`DISCIPLINA`
+`Eixo 3 - Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
+`3° Semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Aline Candido Martins 
+* Eduardo Lucci Imakawa de Andrade
+* Felipe Costa Moreira
+* Rafael Pacheco Leite
+* Thaís Rodrigues Dantas
+* Webert Henrique Marques Figueiredo
 
 ## Orientador
 
-* Nome completo do professor 1
+Mateus Curcino De Lima
 
 ## Instruções de utilização
 

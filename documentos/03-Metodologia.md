@@ -6,9 +6,33 @@
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
 ## Relação de Ambientes de Trabalho
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue. 
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+<table>
+ <thead>
+  <th>
+Ambiente 
+  </th>
+  <th>
+Plataforma
+
+  </th>
+  <th>
+Link de acesso 
+  </th>
+ </thead>
+ <tbody>
+  <td>Repositório de código fonte </td>
+  <td>GitHub </td>
+  <td>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe  </td>
+  <tr><td><b>Documentação do projeto </b></td>
+      <td>GitHub</td>
+      <td> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe</td></tr>
+   <tr><td>Gerenciamento do projeto</td>
+       <td>Github Projects </td>
+     <td>https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/50 </td>
+ </tbody>
+</table>
 
 ## Controle de Versão
 

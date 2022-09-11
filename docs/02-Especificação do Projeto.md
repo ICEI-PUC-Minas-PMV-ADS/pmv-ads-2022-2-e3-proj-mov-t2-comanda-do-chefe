@@ -8,19 +8,31 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+| Juliana Souza      |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/personas/juliana_souza.jfif)|**Idade:** 29 anos - **Ocupação:** Desenvovedora de Software, Dona de Casa |**Aplicativos:** Facebook, Whatsapp, Instagram.|
+|**Motivações:** Juliana tem problemas em relação a dificuldade em si fazer um pedido em alguns lugares, pois a maioria de bares que frequenta estão sempre cheios, dificultando seus pedidos.  |**Frustrações:** Juliana não consegue realizar um pedido de forma fácil pois em alguns lugares não há organização em relação às filas dos caixas. |**Hobbies, História:** Juliana sempre foi dedicada em relação ao estudo/trabalho, encontrou sua paixão na tecnologia e durante sua faculdade unificou o trabalho ao seu dia a dia pois desde jovem tinha o sonho de morar sozinha.| 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+| Nair Viana      |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/personas/nair_viana.jfif)|**Idade:** 63 anos - **Ocupação:** Aposentada, Dona de Casa |**Aplicativos:** Whatsapp.|
+|**Motivações:**  Pelos ambientes normalmente cheios ou com falta de organização na hora de retirar os pedidos Nair não consegue fazer seus pedidos de forma rápida e acaba tendo que esperar por muito tempo pela sua comida. |**Frustrações:**  PPor possuir hipoglicemia, Nair se vê em um beco sem saída quando quer comer em alguns restaurantes, pois sempre há uma demora na retirada e na preparação de seu pedido. |**Hobbies, História:** Por ser cultura de suas amigas sempre saírem para almoçar juntas aos sábados, Nair sempre teve que se preocupar em ter uma refeição pequena antes de sair para que não passe mal devido sua condição de saúde.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| João Marques    |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/personas/jo%C3%A3o_marques.jfif)|**Idade:** 42 anos - **Ocupação:** Dono do restaurante Comida Mineira.     |**Aplicativos:** Facebook, Whatsapp, LinkedIn, Instagram, Jornais.|
+|**Motivações:** Visando garantir melhor qualidade de atendimento em seu restaurante, o restaurante de João visa o uso de comanda digital que facilita o gerenciamento dos pedidos.  |**Frustrações:** Devido a recentes reclamações do atendimento falho em seu restaurante João decidiu melhorá-lo e agilizá-lo, trazendo mais satisfação do cliente.|**Hobbies, História:** Gosta de passar o tempo livre se divertido com a família.|
+
+| Clara Lima   |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/personas/clara_lima.jfif)|**Idade:** 19 anos - **Ocupação:** Estudante e garçonete em um bar local.     |**Aplicativos:**  Facebook, Instagram e WhatsApp.|
+|**Motivações:** Clara começou a trabalhar como garçonete em um bar no período da noite para pagar sua faculdade. |**Frustrações:** Clara, por ser uma garçonete ainda sem experiência muitas vezes aca confundido os pedidos dos clientes.|**Hobbies, História:** Clara terminou o ensino médio e está se preparando para entrar na faculdade, e com o tempo tão corrido, procura sempre processos que agilizem suas atividades.|
+
+| Milena Martins  |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/personas/milena_martins.jfif)|**Idade:** 40 anos - **Ocupação:** Trabalha em uma multinacional da área de siderurgia.   |**Aplicativos:**  Facebook, Whatsapp, LinkedIn, Instagram, Jornais.|
+|**Motivações:**  Milena é vegetariana e não consome bebidas alcoólicas, porém quando vai ao happy hour de sua empresa os pedidos são feitos por uma pessoa apenas. |**Frustrações:** Quando sai com seus amigos acaba tendo que dividir a conta de forma igual, mesmo não consumindo bebidas alcoólicas ou comidas com carne.|**Hobbies, História:** Gosta de sair com os amigos nos finais de semana e tocar violão.|
+
 
 ## Histórias de Usuários
 
@@ -28,17 +40,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Juliana Souza   | fazer meu pedido por app         | que não precise enfrentar filas grandes               |
+|Nair Viana       | fazer meu pedido rápido                | que ele seja entregue o mais rápido possível |
+|João Marques       | agilizar o atendimento dos meus clientes                | que os clientes saiam satisfeitos do restaurante |
+|Clara Lima       | de uma maneira fácil de organizar os pedidos dos clientes                | que ela não se confunda ou atrase os pedidos |
+|Milena Martins       | comodidade para fazer o seu próprio pedido                | sua conta fique separada das demais pessoas |
+|Clara Lima       | autonomia para que os clientes façam o próprio pedido                | para que proporcione mais comodidade ao cliente |
+|Milena Martins     | um cardápio bem organizado                  | consiga encontrar alimentos vegetarianos de forma prática |
 
 ## Modelagem do Processo de Negócio 
 
@@ -93,31 +101,27 @@ Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Cla
 
 - [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
+   correspondem a uma funcionalidade que deve estar presente na
   plataforma (ex: cadastro de usuário).
 - [Requisitos Não Funcionais
   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
   correspondem a uma característica técnica, seja de usabilidade,
   desempenho, confiabilidade, segurança ou outro (ex: suporte a
   dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+  Lembre-se que cada requisito deve corresponder à uma e somente uma
+  característica alvo da sua solução. Além disso, certifique-se de que
+  todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+| ID   | Restrição                                                    |
+| ---- | ------------------------------------------------------------ |
+| 01   | O projeto deverá ser entregue até o final do semestre        |
+| 02   | O Projeto deve ser desenvolvido em uma linguagem para uma aplicação móvel |
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
