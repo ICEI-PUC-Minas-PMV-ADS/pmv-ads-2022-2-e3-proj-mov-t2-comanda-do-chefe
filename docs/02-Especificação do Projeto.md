@@ -16,7 +16,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 | Nair Viana      |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
 |![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/personas/nair_viana.jfif)|**Idade:** 63 anos - **Ocupação:** Aposentada, Dona de Casa |**Aplicativos:** Whatsapp.|
-|**Motivações:**  Pelos ambientes normalmente cheios ou com falta de organização na hora de retirar os pedidos Nair não consegue fazer seus pedidos de forma rápida e acaba tendo que esperar por muito tempo pela sua comida. |**Frustrações:**  PPor possuir hipoglicemia, Nair se vê em um beco sem saída quando quer comer em alguns restaurantes, pois sempre há uma demora na retirada e na preparação de seu pedido. |**Hobbies, História:** Por ser cultura de suas amigas sempre saírem para almoçar juntas aos sábados, Nair sempre teve que se preocupar em ter uma refeição pequena antes de sair para que não passe mal devido sua condição de saúde.
+|**Motivações:**  Pelos ambientes normalmente cheios ou com falta de organização na hora de retirar os pedidos Nair não consegue fazer seus pedidos de forma rápida e acaba tendo que esperar por muito tempo pela sua comida. |**Frustrações:**  Por possuir hipoglicemia, Nair se vê em um beco sem saída quando quer comer em alguns restaurantes, pois sempre há uma demora na retirada e na preparação de seu pedido. |**Hobbies, História:** Por ser cultura de suas amigas sempre saírem para almoçar juntas aos sábados, Nair sempre teve que se preocupar em ter uma refeição pequena antes de sair para que não passe mal devido sua condição de saúde.|
 
 | João Marques    |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
@@ -87,15 +87,27 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O aplicativo deve cadastrar os produtos do estabelecimento. | ALTA |
+|RF-002| O aplicativo deverá mostra em tempo real de espera do pedido ao cliente. | ALTA |
+|RF-003| O aplicativo deverá mostrar todas as opções do cardápio ao cliente. | ALTA |
+|RF-004| O aplicativo deve mostrar valores dos produtos | ALTA |
+|RF-005| O aplicativo deve somar todo o pedido do cliente | MÉDIA |
+|RF-006| O aplicativo deverá realizar o pagamento por meio de pix, cartão de credito  e dinheiro | ALTA |
+|RF-007| O Aplicativo deve chamar um garçom a mesa do cliente | MÉDIA |
+|RF-008| O aplicativo deve computar o número da mesa do cliente | ALTA |
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+| ID      | Descrição do Requisito                                       | Prioridade |
+| ------- | ------------------------------------------------------------ | ---------- |
+| RNF-001 | O sistema de ser feito usando práticas de UX e IxD           | ALTA       |
+| RNF-002 | O sistema deve ser disponibilizado publicamente no GitHub.   | ALTA       |
+| RNF-003 | O sistema deve apresentar baixo tempo de resposta nas requisições. | ALTA       |
+| RNF-004 | O sistema deve apresentar um filtro para pesquisas.          | ALTA       |
+| RNF-005 | O sistema deve ser implementado em uma linguagem para dispositivo móvel | ALTA       |
+| RNF-006 | O sistema deve ser responsivo e compatível com os principais navegadores. | ALTA       |
+
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
