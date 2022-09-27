@@ -195,7 +195,7 @@ O processo de determinar o orçamento do projeto é uma tarefa que depende, alé
 
 | Recursos Necessários | Recursos Necessários	(R$) |
 | :---        |    :----:   |
-| Recursos Humanos     |   Recursos Humanos	R$90.000,00    |
+| Recursos Humanos     |  	R$90.000,00    |
 | Hardware    |   Hardware	R$18.000,00   |
 | Software    |   Software	0  |
 | Celular    |   Celular	R$4.500,00 |
