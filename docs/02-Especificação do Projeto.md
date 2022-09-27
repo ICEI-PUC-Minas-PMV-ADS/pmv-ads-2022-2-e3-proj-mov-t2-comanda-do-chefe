@@ -196,10 +196,10 @@ O processo de determinar o orçamento do projeto é uma tarefa que depende, alé
 | Recursos Necessários | Recursos Necessários	(R$) |
 | :---        |    :----:   |
 | Recursos Humanos     |  	R$90.000,00    |
-| Hardware    |   Hardware	R$18.000,00   |
-| Software    |   Software	0  |
-| Celular    |   Celular	R$4.500,00 |
-| Total    |   Total	R$112.500,00 |
+| Hardware    |  	R$18.000,00   |
+| Software    |   R$00,00  |
+| Celular    |   	R$4.500,00 |
+| Total    |   	R$112.500,00 |
 
 - Serão 6 membros Analistas Juniores com salário de R$2500,00 por mês.
 - Serão 6 Notebooks i5 8gigas de ram 256 SSD R$3000,00 cada.
