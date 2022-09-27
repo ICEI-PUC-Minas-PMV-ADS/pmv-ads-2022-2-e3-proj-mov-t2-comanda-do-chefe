@@ -170,7 +170,14 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
 
-![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
+| Data| Etapa |
+| :---        | :---   |
+| 11/08    |   1ª ETAPA: Concepção, Proposta de Solução e Início da Elaboração do Projeto da Solução: Definição    |
+| 09/10     |   2ª ETAPA: Continuidade da Elaboração do Projeto da Solução e Início do Desenvolvimento    |
+| 30/10    |  3ª ETAPA: Continuidade do Desenvolvimento da Solução: Desenvolvimento da aplicação móvel (Parte 1)    |
+| 27/11	     |  4ª ETAPA: Continuidade do Desenvolvimento da Solução: Desenvolvimento da aplicação móvel (Parte 2)    |
+| 07/12     |  5ª ETAPA: Diagnóstico, entrega da solução e apresentação    |
+
 
 O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
 
@@ -186,4 +193,16 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
-![Orçamento](img/02-orcamento.png)
+| Recursos Necessários | Recursos Necessários	(R$) |
+| :---        |    :----:   |
+| Recursos Humanos     |   Recursos Humanos	R$90.000,00    |
+| Hardware    |   Hardware	R$18.000,00   |
+| Software    |   Software	0  |
+| Celular    |   Celular	R$4.500,00 |
+| Total    |   Total	R$112.500,00 |
+
+- Serão 6 membros Analistas Juniores com salário de R$2500,00 por mês.
+- Serão 6 Notebooks i5 8gigas de ram 256 SSD R$3000,00 cada.
+- Serão 6 Celulares Samsung A11 R$750,00 cada.
+- Softwares usaremos free to use ou opensource.
+
