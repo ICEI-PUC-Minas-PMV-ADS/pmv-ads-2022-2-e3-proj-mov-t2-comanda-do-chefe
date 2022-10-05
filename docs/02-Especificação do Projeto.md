@@ -62,12 +62,16 @@ Apresente aqui uma descrição da sua proposta abordando seus limites e suas lig
 
 Hoje este processo é feito manualmente pelos atendentes e garçons, uma melhoria de qualidade e exclusão de erros seria a criação da aplicação seguindo os passos abaixo. Em seguida,segue descrito no padrão BPMN. 
 
-![Processo 1](https://drive.google.com/file/d/1AJuIexSV3w9OdEn4r0bCYaW2RXQ1IpEK/view?usp=sharing)
+![Processo 1](https://drive.google.com/file/d/1YdBQ3ndE7XhuFKkKwt2CCaej5bRP7Cd6/view?usp=sharing)
 
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+- Melhora no tempo de Atendimento 
+- Redução dos erros em pedidos
+- Facilidade em conferencia de valores
+- Quantidade de Reclamações dos clientes
+- Quantidade de Reclamações dos atendentes/garçons.
 
 Usar o seguinte modelo: 
 
