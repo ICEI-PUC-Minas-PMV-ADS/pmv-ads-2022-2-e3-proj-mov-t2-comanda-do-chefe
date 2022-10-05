@@ -62,7 +62,8 @@ Apresente aqui uma descrição da sua proposta abordando seus limites e suas lig
 
 Hoje este processo é feito manualmente pelos atendentes e garçons, uma melhoria de qualidade e exclusão de erros seria a criação da aplicação seguindo os passos abaixo. Em seguida,segue descrito no padrão BPMN. 
 
-![Processo 1](https://drive.google.com/file/d/1YdBQ3ndE7XhuFKkKwt2CCaej5bRP7Cd6/view?usp=sharing)
+![Processo 1]
+e.google.com/file/d/1YdBQ3ndE7XhuFKkKwt2CCaej5bRP7Cd6/view?usp=sharing)
 
 
 ## Indicadores de Desempenho
