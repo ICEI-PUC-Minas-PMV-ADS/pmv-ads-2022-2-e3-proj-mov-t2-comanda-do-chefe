@@ -128,18 +128,18 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 | ATOR   | DESCRIÇÃO                                                   |
 | ---- | ------------------------------------------------------------ |
 | Usuário | Pessoa que irá utilizar o aplicativo para fazer o pedido no restaurante|
-| BD | O Projeto deve ser desenvolvido em uma linguagem para uma aplicação móvel |
+| BD | Banco de dados que deve armazenar e buscar as informações dos usuários, dos produtos cadastrados e dos pedidos realizados. |
 | ADM | Pessoa do restaurante responsável por administrar os pedidos |
 
 | CASO DE USO   | DESCRIÇÃO                                                   |RF| 
 | ---- | ------------------------------------------------------------ |--- |
 | Realizar cadastro de usuário | 	O usuário deve conseguir realizar um cadastro na aplicação|RF-009|
-| Efetuar login na aplicação | O Projeto deve ser desenvolvido em uma linguagem para uma aplicação móvel |RF-010|
+| Efetuar login na aplicação | O usuário deve conseguir realizar um login na aplicação com suas credenciais cadastradas |RF-010|
 | Alterar a senha | O usuário deve conseguir alterar a sua senha |RF-011|
 | Realizar cadastro de cartões | O usuário deve conseguir realizar o cadastro de cartões |RF-012|
 | Realizar cadastro de produtos | O administrador deve conseguir realizar o cadastro de produtos disponíveis |RF-001|
 | Alterar estoque | O administrador deve conseguir alterar o estoque de produtos |RF-013|
-| Cadastrar o número da mesa | O usuário deve conseguir cadastrar o némro da mesa na realização do pedido |RF-008|
+| Cadastrar o número da mesa | O usuário deve conseguir cadastrar o número da mesa|RF-008|
 | Chamar o garçom | O usuário deve conseguir chamar o garçom pelo app |RF-007|
 | Realizar pagamento | O usuário deve conseguir pagar seu pedido |RF-006 |
 | Mostrar tempo de espera | O aplicativo deve mostrar o tempo de espera |RF-002|
