@@ -87,14 +87,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O aplicativo deve cadastrar os produtos do estabelecimento. | ALTA |
-|RF-002| O aplicativo deverá mostra em tempo real de espera do pedido ao cliente. | ALTA |
-|RF-003| O aplicativo deverá mostrar todas as opções do cardápio ao cliente. | ALTA |
+|RF-001| O aplicativo deve permirtir cadastrar os produtos do estabelecimento. | ALTA |
+|RF-002| O aplicativo deve mostrar em tempo real o tempo de espera do pedido ao cliente. | ALTA |
+|RF-003| O aplicativo deve mostrar todas as opções do cardápio ao cliente. | ALTA |
 |RF-004| O aplicativo deve mostrar valores dos produtos | ALTA |
 |RF-005| O aplicativo deve somar todo o pedido do cliente | MÉDIA |
-|RF-006| O aplicativo deverá realizar o pagamento por meio de pix, cartão de credito  e dinheiro | ALTA |
+|RF-006| O aplicativo deve permitir realizar o pagamento por meio de pix, cartão de credito  e dinheiro | ALTA |
 |RF-007| O Aplicativo deve chamar um garçom a mesa do cliente | MÉDIA |
 |RF-008| O aplicativo deve computar o número da mesa do cliente | ALTA |
+|RF-009| O aplicativo deve parmitir o cadastro de usuários | ALTA |
+|RF-010| O aplicativo deve permitir que o usuário logue em sua conta | ALTA |
+|RF-011| O aplicativo deve permitir que o usuário consiga alterar dados da conta | ALTA |
+|RF-012| O aplicativo deve permitir que o usuário cadastre cartões para pagamento | ALTA |
+|RF-013| O aplicativo deve permitir alterar o estoque de produtos | ALTA |
 
 ### Requisitos não Funcionais
 
@@ -106,23 +111,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RNF-004 | O sistema deve apresentar um filtro para pesquisas.          | ALTA       |
 | RNF-005 | O sistema deve ser implementado em uma linguagem para dispositivo móvel | ALTA       |
 | RNF-006 | O sistema deve ser responsivo e compatível com os principais navegadores. | ALTA       |
-
-
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
-   correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-  Lembre-se que cada requisito deve corresponder à uma e somente uma
-  característica alvo da sua solução. Além disso, certifique-se de que
-  todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -137,16 +125,27 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+| ATOR   | DESCRIÇÃO                                                   |
+| ---- | ------------------------------------------------------------ |
+| Usuário | Pessoa que irá utilizar o aplicativo para fazer o pedido no restaurante|
+| BD | O Projeto deve ser desenvolvido em uma linguagem para uma aplicação móvel |
+| ADM | Pessoa do restaurante responsável por administrar os pedidos |
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+| CASO DE USO   | DESCRIÇÃO                                                   |RF| 
+| ---- | ------------------------------------------------------------ |--- |
+| Realizar cadastro de usuário | 	O usuário deve conseguir realizar um cadastro na aplicação|RF-009|
+| Efetuar login na aplicação | O Projeto deve ser desenvolvido em uma linguagem para uma aplicação móvel |RF-010|
+| Alterar a senha | O usuário deve conseguir alterar a sua senha |RF-011|
+| Realizar cadastro de cartões | O usuário deve conseguir realizar o cadastro de cartões |RF-012|
+| Realizar cadastro de produtos | O administrador deve conseguir realizar o cadastro de produtos disponíveis |RF-001|
+| Alterar estoque | O administrador deve conseguir alterar o estoque de produtos |RF-013|
+| Cadastrar o número da mesa | O usuário deve conseguir cadastrar o némro da mesa na realização do pedido |RF-008|
+| Chamar o garçom | O usuário deve conseguir chamar o garçom pelo app |RF-007|
+| Realizar pagamento | O usuário deve conseguir pagar seu pedido |RF-006 |
+| Mostrar tempo de espera | O aplicativo deve mostrar o tempo de espera |RF-002|
+| Mostrar produtos disponíveis | O aplicativo deve mostrar os produtos disponíveis  |RF-003|
+| Mostrar preço dos produtos | O aplicativo deve mostrar o preço dos produtos disponíveis |RF-004|
+| Mostrar soma dos produtos selecionados | O aplicativo deve mostrar a soma dos produtos selecionados|RF-005|
 
 # Matriz de Rastreabilidade
 
