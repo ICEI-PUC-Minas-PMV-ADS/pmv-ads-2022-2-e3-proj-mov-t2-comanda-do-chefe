@@ -149,7 +149,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Representação visual
 
-![Diagrama de Casos de Uso](img/diagrama_de_casos_de_uso.png)
+![Diagrama de Casos de Uso](img/UseCaseDiagram.png)
 *Figura 1 – Diagrama de Casos de Uso*
 
 # Matriz de Rastreabilidade
