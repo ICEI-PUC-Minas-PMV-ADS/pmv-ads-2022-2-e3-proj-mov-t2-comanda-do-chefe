@@ -1,0 +1,55 @@
+import * as React from 'react';
+import { Text, View, StyleSheet  } from 'react-native';
+import { Button, Card, Appbar } from 'react-native-paper';
+
+
+const App = () => {
+
+const _goBack = () => console.log('Went back');
+
+return (
+    <View style={styles.view}>
+    <Appbar.Header style={styles.header}>
+      <Appbar.BackAction onPress={_goBack} />
+      <Appbar.Content title="Comanda Do Chefe" />
+    </Appbar.Header>
+
+    <Card style={styles.card}>
+    <Card.Cover source={{ uri: 'https://cdn.opantaneiro.com.br/img/pc/300/300/dn_arquivo/2022/03/d958813a0dd2d5ecf784203a3a0f6393.png' }} />
+  </Card>
+    <Button style ={styles.button} icon="" mode="contained" onPress={() => console.log('Pressed')}>
+    Cliente
+  </Button>
+  <Button style ={styles.button} icon="" mode="contained" onPress={() => console.log('Pressed')}>
+    Colaborador
+  </Button>
+
+    </View>
+  );
+
+}
+
+const styles = StyleSheet.create({
+
+  header:{
+    backgroundColor: "orange"
+  },
+  view:{
+    backgroundColor: "black"
+  },
+  card:{
+    flex: 1,
+    backgroundColor: "black",
+    padding: 20
+  },
+  button: {  
+    backgroundColor: "orange",
+    height: 40,
+    marginVertical: 12,
+    borderWifth: 1,
+    
+  },
+});
+
+
+export default App;
