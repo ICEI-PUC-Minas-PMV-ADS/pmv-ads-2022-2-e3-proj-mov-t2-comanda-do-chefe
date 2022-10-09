@@ -1,11 +1,38 @@
 # Plano de Testes de Usabilidade
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
 
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+| `Caso de Teste`         | `CT-01`                                                      |
+| ----------------------- | ------------------------------------------------------------ |
+| `Requisitos Associados` | RF01: O sistema deverá permitir o login de colaboradores no sistema; |
+| `Objetivo do Teste`     | verificar que a autenticação falhou ao realizar login para um usuário inexistente na base de dados. |
+| `Passos`                | 1. Abrir o APP ;                                                                                                                       2. Acessar o a opção "Funcionário" presente na aplicação;                                            3. Fazer login                                                                                                                         4. clicar no menu no canto superior                                                                              5. selecionar "Cadastrar usuários" |
+| `Critérios de Êxito`    | • Aparecer a mensagem " Usuário cadastrado"                  |
+
+| `Caso de Teste`         | CT-02                                                        |
+| ----------------------- | ------------------------------------------------------------ |
+| `Requisitos Associados` | RF-006 O aplicativo deve permitir realizar o pagamento por meio de pix, cartão de credito e dinheiro |
+| `Objetivo do Teste`     | Realizar o pagamento com sucesso                             |
+| `Passos`                | 1.Acessar o app                                                                                                 2.Selecionar "Cliente"                                                                                                3. Preencher os dados solicitados;                                                                      4.Selecionar o produto                                                                                        5.Adicionar a quantidade desejada;                                                                                   6 . Selecionar a forma de pagamento sendo possível cartão de credito, pix ou dinheiro; |
+| `Critérios de Êxito`    | • Realizar o pagamento do pedido                             |
+
+| `Caso de Teste`         | `CT-03                                                       |
+| ----------------------- | ------------------------------------------------------------ |
+| `Requisitos Associados` | RF07: O Aplicativo deve chamar um garçom a mesa do cliente   |
+| `Objetivo do Teste`     | Chamar o garçom a mesa                                       |
+| `Passos`                | 1.Acessar o app                                                                                                         2. Selecionar "Cliente"                                                                                             3.Preencher os dados solicitados                                                                                      4. clicar no menu no canto superior                                                                                5. selecionar a opção "chamar garçom" |
+| `Critérios de Êxito`    | • Abrir uma a mensagem "Garçom foi solicitado"               |
+
+| `Caso de Teste`         | `CT-04                                                       |
+| ----------------------- | ------------------------------------------------------------ |
+| `Requisitos Associados` | RF-004 O aplicativo deve mostrar valores dos produtos        |
+| `Objetivo do Teste`     | Visualizar valores de produtos                               |
+| `Passos`                | 1.Acessar o app                                                                                                                     2. Selecionar "Cliente"                                                                                                             3.Preencher os dados solicitados                                                                           4. procurar produtor solicitado e olhar abaixo da descrição |
+| `Critérios de Êxito`    | • Visualizar o preço                                         |
+
+| `Caso de Teste`         | CT-05                                                        |
+| ----------------------- | ------------------------------------------------------------ |
+| `Requisitos Associados` | RF-002: O Sistema deverá fazer o pedido do cliente           |
+| `Objetivo do Teste`     | Realizar o pedido do cliente                                 |
+| `Passos`                | 1.Acessar o app                                                                                                                     2. Selecionar "Cliente"                                                                                                             3.Preencher os dados solicitados                                                                           4. Procurar produtor solicitado                                                                                        5.Solicitar o pedido |
+| `Critérios de Êxito`    | • Aparecer "Pedido enviado com sucesso."                     |
