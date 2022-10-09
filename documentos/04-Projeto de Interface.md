@@ -4,8 +4,8 @@
 Para o desenvolvimento da interface do sistema, definiu-se o foco em questões como dinâmica interpessoal entre o usuário e a aplicação, acessibilidade, usabilidade e simplicidade. O projeto tem uma identidade visual tal que são projetadas baseando-se na responsividade, para o correto funcionamento em dispositivos móveis.
 ## Diagrama de Fluxo
 Descrevemos no diagrama apresentado na figura abaixo o fluxo de interação do usuário através das telas do sistema interativo.
-O wireframe interativo pode ser acessado no ambiente Figma do projeto, conforme link disponibilizado na seção
-< img src = "docs/img/Fluxograma Comando do Chefe.png">
+
+
 
 
 ## Estruturas de arame
