@@ -5,9 +5,11 @@ Para o desenvolvimento da interface do sistema, definiu-se o foco em questões c
 ## Diagrama de Fluxo
 Descrevemos no diagrama apresentado na figura abaixo o fluxo de interação do usuário através das telas do sistema interativo.
 O wireframe interativo pode ser acessado no ambiente Figma do projeto, conforme link disponibilizado na seção
-(docs/img/Fluxograma Comanda do Chefe.png)
+< img src = "docs/img/Fluxograma Comando do Chefe.png">
 
-## Wireframes
+
+## Estruturas de arame
+
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
