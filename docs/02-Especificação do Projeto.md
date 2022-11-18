@@ -83,18 +83,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| O aplicativo deve permirtir cadastrar os produtos do estabelecimento. | ALTA |
-|RF-002| O aplicativo deve mostrar em tempo real o tempo de espera do pedido ao cliente. | ALTA |
-|RF-003| O aplicativo deve mostrar todas as opções do cardápio ao cliente. | ALTA |
-|RF-004| O aplicativo deve mostrar valores dos produtos | ALTA |
-|RF-005| O aplicativo deve somar todo o pedido do cliente | MÉDIA |
-|RF-006| O aplicativo deve permitir realizar o pagamento por meio de pix, cartão de credito  e dinheiro | ALTA |
-|RF-007| O Aplicativo deve chamar um garçom a mesa do cliente | MÉDIA |
-|RF-008| O aplicativo deve computar o número da mesa do cliente | ALTA |
-|RF-009| O aplicativo deve parmitir o cadastro de usuários | ALTA |
-|RF-010| O aplicativo deve permitir que o usuário logue em sua conta | ALTA |
-|RF-011| O aplicativo deve permitir que o usuário consiga alterar dados da conta | ALTA |
-|RF-012| O aplicativo deve permitir que o usuário cadastre cartões para pagamento | ALTA |
-|RF-013| O aplicativo deve permitir alterar o estoque de produtos | ALTA |
+|RF-002| O aplicativo deve mostrar todas as opções do cardápio ao cliente. | ALTA |
+|RF-003| O aplicativo deve mostrar valores dos produtos | ALTA |
+|RF-004| O aplicativo deve somar todo o pedido do cliente | BAIXA |
+|RF-005| O aplicativo deve permitir realizar o pagamento por meio de pix, cartão de credito  e dinheiro | ALTA |
+|RF-006| O aplicativo deve parmitir o cadastro de usuários | ALTA |
+|RF-007| O aplicativo deve permitir que o usuário logue em sua conta | ALTA |
+|RF-008| O aplicativo deve permitir que o usuário consiga alterar dados da conta | MEDIA |
+|RF-009| O aplicativo deve permitir que o usuário cadastre cartões para pagamento | ALTA |
+|RF-010| O aplicativo deve permitir que o usuario altere sua 'sacola' de produtos | MEDIA |
+
 
 ### Requisitos não Funcionais
 
@@ -128,19 +126,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 | CASO DE USO   | DESCRIÇÃO                                                   |RF| 
 | ---- | ------------------------------------------------------------ |--- |
-| Realizar cadastro de usuário | 	O usuário deve conseguir realizar um cadastro na aplicação|RF-009|
-| Efetuar login na aplicação | O usuário deve conseguir realizar um login na aplicação com suas credenciais cadastradas |RF-010|
-| Alterar a senha | O usuário deve conseguir alterar a sua senha |RF-011|
-| Realizar cadastro de cartões | O usuário deve conseguir realizar o cadastro de cartões |RF-012|
+| Realizar cadastro de usuário | 	O usuário deve conseguir realizar um cadastro na aplicação|RF-006|
+| Efetuar login na aplicação | O usuário deve conseguir realizar um login na aplicação com suas credenciais cadastradas |RF-007|
+| Alterar a senha | O usuário deve conseguir alterar a sua senha |RF-008|
+| Realizar cadastro de cartões | O usuário deve conseguir realizar o cadastro de cartões |RF-009|
 | Realizar cadastro de produtos | O administrador deve conseguir realizar o cadastro de produtos disponíveis |RF-001|
-| Alterar estoque | O administrador deve conseguir alterar o estoque de produtos |RF-013|
-| Cadastrar o número da mesa | O usuário deve conseguir cadastrar o número da mesa|RF-008|
-| Chamar o garçom | O usuário deve conseguir chamar o garçom pelo app |RF-007|
-| Realizar pagamento | O usuário deve conseguir pagar seu pedido |RF-006 |
-| Mostrar tempo de espera | O aplicativo deve mostrar o tempo de espera |RF-002|
-| Mostrar produtos disponíveis | O aplicativo deve mostrar os produtos disponíveis  |RF-003|
-| Mostrar preço dos produtos | O aplicativo deve mostrar o preço dos produtos disponíveis |RF-004|
-| Mostrar soma dos produtos selecionados | O aplicativo deve mostrar a soma dos produtos selecionados|RF-005|
+| Realizar pagamento | O usuário deve conseguir pagar seu pedido |RF-005|
+| Mostrar produtos disponíveis | O aplicativo deve mostrar os produtos disponíveis  |RF-002|
+| Mostrar preço dos produtos | O aplicativo deve mostrar o preço dos produtos disponíveis |RF-003|
 
 ## Representação visual
 
