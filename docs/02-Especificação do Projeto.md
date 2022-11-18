@@ -28,11 +28,6 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |![Clara Lima](img/personas/clara_lima.jfif)|**Idade:** 19 anos - **Ocupação:** Estudante e garçonete em um bar local.     |**Aplicativos:**  Facebook, Instagram e WhatsApp.|
 |**Motivações:** Clara começou a trabalhar como garçonete em um bar no período da noite para pagar sua faculdade. |**Frustrações:** Clara, por ser uma garçonete ainda sem experiência muitas vezes aca confundido os pedidos dos clientes.|**Hobbies, História:** Clara terminou o ensino médio e está se preparando para entrar na faculdade, e com o tempo tão corrido, procura sempre processos que agilizem suas atividades.|
 
-| Milena Martins  |                                    |                |
-|--------------------|------------------------------------|----------------------------------------|
-|![Milena Martins](img/personas/milena_martins.jfif)|**Idade:** 40 anos - **Ocupação:** Trabalha em uma multinacional da área de siderurgia.   |**Aplicativos:**  Facebook, Whatsapp, LinkedIn, Instagram, Jornais.|
-|**Motivações:**  Milena é vegetariana e não consome bebidas alcoólicas, porém quando vai ao happy hour de sua empresa os pedidos são feitos por uma pessoa apenas. |**Frustrações:** Quando sai com seus amigos acaba tendo que dividir a conta de forma igual, mesmo não consumindo bebidas alcoólicas ou comidas com carne.|**Hobbies, História:** Gosta de sair com os amigos nos finais de semana e tocar violão.|
-
 
 ## Histórias de Usuários
 
