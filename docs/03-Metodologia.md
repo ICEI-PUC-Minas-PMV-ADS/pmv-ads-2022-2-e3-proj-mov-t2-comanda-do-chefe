@@ -39,15 +39,6 @@ A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-s
 
 Para gestão do código fonte do software desenvolvido, o grupo utiliza um processo baseado no Git Flow, como mostra a Figura. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature.  <img src="./img/gitFlow.png">
 
-
-
-O projeto segue a seguinte convenção para o nome de branches:
-
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
-
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
 
@@ -70,7 +61,7 @@ Equipe de Desenvolvimento:
 
 Aline Candido Martins, Eduardo Lucci Imakawa de Andrade, Felipe Costa Moreira, Rafael Pacheco Leite, Thaís Rodrigues Dantas, Webert Henrique Marques Figueiredo;
 
-Equipe de design: Aline Candido Martins ,Rafael Pacheco Leite, Thaís Rodrigues Dantas;
+Equipe de design: Aline Candido Martins e Rafael Pacheco Leite ;
 
 
 
@@ -99,3 +90,6 @@ As ferramentas empregadas no projeto são:
 - **Ferramentas de desenho de tela** - Dra.wio, Figma.
 
 O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+
+
+
