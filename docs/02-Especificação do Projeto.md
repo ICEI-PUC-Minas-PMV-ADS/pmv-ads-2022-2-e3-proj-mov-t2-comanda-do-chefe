@@ -39,9 +39,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Nair Viana       | fazer meu pedido rápido                | que ele seja entregue o mais rápido possível |
 |João Marques       | agilizar o atendimento dos meus clientes                | que os clientes saiam satisfeitos do restaurante |
 |Clara Lima       | de uma maneira fácil de organizar os pedidos dos clientes                | que ela não se confunda ou atrase os pedidos |
-|Milena Martins       | comodidade para fazer o seu próprio pedido                | sua conta fique separada das demais pessoas |
 |Clara Lima       | autonomia para que os clientes façam o próprio pedido                | para que proporcione mais comodidade ao cliente |
-|Milena Martins     | um cardápio bem organizado                  | consiga encontrar alimentos vegetarianos de forma prática |
 
 ## Modelagem do Processo de Negócio 
 
@@ -89,9 +87,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-005| O aplicativo deve permitir realizar o pagamento por meio de pix, cartão de credito  e dinheiro | ALTA |
 |RF-006| O aplicativo deve parmitir o cadastro de usuários | ALTA |
 |RF-007| O aplicativo deve permitir que o usuário logue em sua conta | ALTA |
-|RF-008| O aplicativo deve permitir que o usuário consiga alterar dados da conta | MEDIA |
+|RF-008| O aplicativo deve permitir que o usuário consiga alterar dados da conta | ALTA |
 |RF-009| O aplicativo deve permitir que o usuário cadastre cartões para pagamento | ALTA |
-|RF-010| O aplicativo deve permitir que o usuario altere sua 'sacola' de produtos | MEDIA |
+|RF-010| O aplicativo deve permitir que o usuario altere sua 'sacola' de produtos | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -124,7 +122,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 | BD | Banco de dados que deve armazenar e buscar as informações dos usuários, dos produtos cadastrados e dos pedidos realizados. |
 | ADM | Pessoa do restaurante responsável por administrar os pedidos |
 
-| CASO DE USO   | DESCRIÇÃO                                                   |RF| 
+| CASO DE USO   | DESCRIÇÃO                                                   |RF|
 | ---- | ------------------------------------------------------------ |--- |
 | Realizar cadastro de usuário | 	O usuário deve conseguir realizar um cadastro na aplicação|RF-006|
 | Efetuar login na aplicação | O usuário deve conseguir realizar um login na aplicação com suas credenciais cadastradas |RF-007|
