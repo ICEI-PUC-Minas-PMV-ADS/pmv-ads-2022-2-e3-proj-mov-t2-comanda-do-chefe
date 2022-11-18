@@ -85,7 +85,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| O aplicativo deve mostrar valores dos produtos | ALTA |
 |RF-004| O aplicativo deve somar todo o pedido do cliente | BAIXA |
 |RF-005| O aplicativo deve permitir realizar o pagamento por meio de pix, cartão de credito  e dinheiro | ALTA |
-|RF-006| O aplicativo deve parmitir o cadastro de usuários | ALTA |
+|RF-006| O aplicativo deve permitir o cadastro de usuários | ALTA |
 |RF-007| O aplicativo deve permitir que o usuário logue em sua conta | ALTA |
 |RF-008| O aplicativo deve permitir que o usuário consiga alterar dados da conta | ALTA |
 |RF-009| O aplicativo deve permitir que o usuário cadastre cartões para pagamento | ALTA |
