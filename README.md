@@ -6,7 +6,7 @@
 
 `3° Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto consiste em uma aplicativo interativo onde um usuário cliente poderá realizar pedido em um restaurante onde o mesmo poderá solicitar/gerar pedidos, bem como os usuários/administradores e/ou funcionários do referido setor poderão receber, administrar e atender as ordens de serviço.
 
 ## Integrantes
 
