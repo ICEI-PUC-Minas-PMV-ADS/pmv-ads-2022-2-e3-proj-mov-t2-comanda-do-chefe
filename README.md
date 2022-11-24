@@ -23,7 +23,10 @@ Mateus Curcino De Lima
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+A aplicação está disponível no aplicativo  “Comanda do Chefe” sendo necessário acessar o aplicativo para o uso do usuário.
+Para verificar as funcionalidades, poderão ser utilizados os seguintes dados de login:
+Ambiente do administrador:  “Acesso funcionário"
+Ambiente do cliente: “Acesso Cliente, cadastro de dados do usuário”
 
 # Documentação
 
