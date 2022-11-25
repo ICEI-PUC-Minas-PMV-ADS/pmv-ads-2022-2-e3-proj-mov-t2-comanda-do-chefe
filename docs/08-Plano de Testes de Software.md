@@ -30,9 +30,7 @@ Casos de testes:
 |    3   |     Selecionar a opção de usuário             |
 |    4   |     Visualizar a página inserção de dados     |  
 |    6   |     Cadastrar os dados solicitados            |
-|                              
-|                            
-|                              
+|                    |                             
 |Critério de Êxito |  Deve ser exibido após os dados preenchidos, uma página especifica direcionada ao menu de opções (Cardapio) do local.|
 
 <br>*
