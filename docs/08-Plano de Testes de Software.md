@@ -46,7 +46,7 @@ Casos de testes:
 |     4    |    Visualizar a página inserção de dados|  
 |     5    |    Cadastrar os dados solicitados       |
 |     6    |    Visualizar a página de menu de opções(Cardapio).   |
-|          
+|                    |    
 |Critério de Êxito | Deve ser exibido após a exibição do menu, uma página especifica com os produtos selecionados pelo cliente.|
 <br>*
 
