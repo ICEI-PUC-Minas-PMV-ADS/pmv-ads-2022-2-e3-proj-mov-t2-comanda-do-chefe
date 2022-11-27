@@ -141,13 +141,76 @@ Passo 4
 ![Firebase (4).png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/FireBase%20(4).png)
 
 
+Tela Usuario Cadastrado com Sucesso
+
+
+![tela_cadastro.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/tela_cadastro.jpg)
+
+
+Tela Comanda
+
+
+![tela_comanda.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/tela_comanda.jpg)
+
+
+Tela Comanda Com Produto
+
+
+![tela_comanda_com_produto.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/tela_comanda_com_produto.jpg)
+
+
+Tela Criação Pedido
+
+
+![tela_criacao_pedido.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/tela_criacao_pedido.jpg)
+
+
+Tela Lista de Produtos
+
+
+![tela_lista_de_produtos.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/tela_lista_de_produtos.jpg)
+
+
+Tela de Login
+
+
+![tela_login.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/tela_login.jpg)
+
+
+Tela de Pagamento
+
+
+![tela_pagamento.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/tela_pagamento.jpg)
+
+
+Tela Caixa
+
+
+![tela_pagamento_caixa.jp](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/tela_pagamento_caixa.jpg)
+
+
+Tela Pagamento Cartão
 
 
 
+![tela_pagamento_cartao.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/tela_pagamento_cartao.jpg)
 
 
 
+Tela Pagamento Cartão Finalizado
 
 
+![tela_pagamento_cartao_finalizado.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/tela_pagamento_cartao_finalizado.jpg)
 
+
+Tela Pedido Finalizado
+
+
+![tela_pedido_realizado.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/tela_pedido_realizado.jpg)
+
+
+Tela Produto
+
+
+![tela_produto.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/tela_produto.jpg)
 
