@@ -122,7 +122,7 @@ https://www.figma.com/proto/Ldgh6dhVdV0199YAUMj8vU/Comanda-do-chefe?node-id=0%3A
 
 
 
-## FiBase - Passo a passo
+## FireBase - Passo a passo
 
 Passo 1
 
@@ -139,6 +139,14 @@ Passo 3
 Passo 4
 
 < ![ Passo 4]([Firebase (4).png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/FireBase%20(4).png)>
+
+
+
+Tela Cadastros e Pagamentos.
+
+Login
+
+< ![ Login]([tela_login.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/tela_login.jpg))>
 
 
 
