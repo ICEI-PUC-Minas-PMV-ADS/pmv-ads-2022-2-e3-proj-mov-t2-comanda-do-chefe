@@ -126,7 +126,7 @@ https://www.figma.com/proto/Ldgh6dhVdV0199YAUMj8vU/Comanda-do-chefe?node-id=0%3A
 
 Passo 1
 
-< ![ Passo 1]([Firebase (1).png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/FireBase%20(1).png))>
+![Firebase (1).png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/FireBase%20(1).png)
 
 Passo 2
 
