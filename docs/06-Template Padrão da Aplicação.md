@@ -142,12 +142,6 @@ Passo 4
 
 
 
-Tela Cadastros e Pagamentos.
-
-Login
-
-< ![ Login]([tela_login.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/tela_login.jpg))>
-
 
 
 
