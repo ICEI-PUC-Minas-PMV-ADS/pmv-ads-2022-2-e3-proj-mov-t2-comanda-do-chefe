@@ -119,3 +119,30 @@ Para facilitar ainda mais o entendimento deixo o link do protótipo:
 
 
 https://www.figma.com/proto/Ldgh6dhVdV0199YAUMj8vU/Comanda-do-chefe?node-id=0%3A1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A16&show-proto-sidebar=1
+
+
+
+## FiBase - Passo a passo
+
+Passo 1
+
+<img src="./img/Firebase (1).png">
+
+Passo 2
+
+<img src="./img/Firebase (2).png">
+
+Passo 3
+
+<img src="./img/Firebase (3).png">
+
+Passo 4
+
+<img src="./img/Firebase (4).png">
+
+
+
+
+
+
+
