@@ -130,15 +130,18 @@ Passo 1
 
 Passo 2
 
-< ![ Passo 2]([Firebase (2).png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/FireBase%20(2).png))>
+![Firebase (2).png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/FireBase%20(2).png)
 
 Passo 3
 
-< ![ Passo 3]([Firebase (3).png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/FireBase%20(3).png))>
+![Firebase (3).png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/FireBase%20(3).png)
 
 Passo 4
 
-< ![ Passo 4]([Firebase (4).png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/FireBase%20(4).png)>
+![Firebase (4).png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/FireBase%20(4).png)
+
+
+
 
 
 
