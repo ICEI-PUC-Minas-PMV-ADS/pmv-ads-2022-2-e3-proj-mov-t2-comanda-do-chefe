@@ -130,15 +130,15 @@ Passo 1
 
 Passo 2
 
-<img src="./img/Firebase (2).png">
+< ![ Passo 1]([Firebase (2).png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/FireBase%20(2).png))>
 
 Passo 3
 
-<img src="./img/Firebase (3).png">
+< ![ Passo 1]([Firebase (3).png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/FireBase%20(3).png))>
 
 Passo 4
 
-<img src="./img/Firebase (4).png">
+< ![ Passo 1]([Firebase (4).png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/img/FireBase%20(4).png>
 
 
 
