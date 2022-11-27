@@ -126,7 +126,7 @@ https://www.figma.com/proto/Ldgh6dhVdV0199YAUMj8vU/Comanda-do-chefe?node-id=0%3A
 
 Passo 1
 
-<img src="./docs/img/Firebase (1).png">
+< ![ Passo 1](Firebase (1).png)>
 
 Passo 2
 
