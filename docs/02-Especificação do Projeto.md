@@ -144,12 +144,7 @@ A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualizaç
 
 A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
 
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
+> <img src="./img/Matriz.jpeg">
 
 
 # Gerenciamento de Projeto
@@ -158,41 +153,23 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ## Gerenciamento de Tempo
 
-Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
-
-| Data| Etapa |
-| :---        | :---   |
-| 11/08    |   1ª ETAPA: Concepção, Proposta de Solução e Início da Elaboração do Projeto da Solução: Definição    |
-| 09/10     |   2ª ETAPA: Continuidade da Elaboração do Projeto da Solução e Início do Desenvolvimento    |
-| 30/10    |  3ª ETAPA: Continuidade do Desenvolvimento da Solução: Desenvolvimento da aplicação móvel (Parte 1)    |
-| 27/11	     |  4ª ETAPA: Continuidade do Desenvolvimento da Solução: Desenvolvimento da aplicação móvel (Parte 2)    |
-| 07/12     |  5ª ETAPA: Diagnóstico, entrega da solução e apresentação    |
+O gráfico de Gantt ou diagrama de Gantt é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
 
 
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
 
-![Gráfico de Gantt](img/02-grafico-gantt.png)
+Link para acesso: https://sgapucminasbr-my.sharepoint.com/:x:/r/personal/1360495_sga_pucminas_br/_layouts/15/Doc.aspx?sourcedoc=%7BE40C253A-5C67-427E-95D3-C92BF515CF42%7D&file=DiagramaDeGantt.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=1360495%40sga.pucminas.br&ct=1669590824848&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&cid=8acebab5-8418-44ad-9152-4904d6ebfbdf
+
+<img src="./img/Diagrama.png">
 
 ## Gerenciamento de Equipe
 
 O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
 
-![Simple Project Timeline](img/02-project-timeline.png)
+<img src="./img/Time.png">
 
 ## Gestão de Orçamento
 
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
-| Recursos Necessários | Recursos Necessários	(R$) |
-| :---        |    :----:   |
-| Recursos Humanos     |  	R$90.000,00    |
-| Hardware    |  	R$18.000,00   |
-| Software    |   R$00,00  |
-| Celular    |   	R$4.500,00 |
-| Total    |   	R$112.500,00 |
-
-- Serão 6 membros Analistas Juniores com salário de R$2500,00 por mês.
-- Serão 6 Notebooks i5 8gigas de ram 256 SSD R$3000,00 cada.
-- Serão 6 Celulares Samsung A11 R$750,00 cada.
-- Softwares usaremos free to use ou opensource.
+<img src="./img/Orçamento.jpg">
 
